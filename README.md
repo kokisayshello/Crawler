@@ -1,9 +1,9 @@
 # Crawler
 Web crawler in Java with Selenium/ChromeDriver
 
-How to run the code in your envrinoment
+How to run the code in your environment
 
-All prerequisites and installation needed:
+Prerequisites and installation needed:
 
 1. Java Development Kit (JDK) - You need to have Java installed on your system;
 2. Integrated Development Environment (IDE) -  IDE is a must in order to write, edit and manage your Java code;
